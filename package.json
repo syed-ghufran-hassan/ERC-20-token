@@ -1,0 +1,22 @@
+{
+  "name": "erc-20",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghufran",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-ghufran-hassan/ERC-20-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syed-ghufran-hassan/ERC-20-token/issues"
+  },
+  "homepage": "https://github.com/syed-ghufran-hassan/ERC-20-token#readme",
+  "description": "",
+  "devDependencies": {
+    "hardhat": "^2.12.1"
+  }
+}

@@ -17,6 +17,15 @@
   "homepage": "https://github.com/syed-ghufran-hassan/ERC-20-token#readme",
   "description": "",
   "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "ethereum-waffle": "^3.4.4",
     "hardhat": "^2.12.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2"
   }
 }
